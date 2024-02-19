@@ -11,7 +11,10 @@
     src: url(./assets/font/Roboto-Bold.ttf);
 }
 body{
-    background-color: #e7e7e7;
+    background-color: #f3f3f3;
+}
+.container-fluid{
+    padding: 0px;
 }
 .top-header p{
     margin-bottom: 0px;
