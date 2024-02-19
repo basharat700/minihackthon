@@ -47,6 +47,10 @@ a{
     margin-right: 7px;
     border-radius: 50%;   
 }
+.social-icon a:hover{
+    background-color: #fd4c82;
+    color: #fff;
+}
 .header{
     background-color: #fff;
     height: 70px;
